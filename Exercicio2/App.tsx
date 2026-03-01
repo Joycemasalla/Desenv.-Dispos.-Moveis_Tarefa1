@@ -36,6 +36,7 @@ const styles = StyleSheet.create({
     fontSize: 24,
     color: '#FFFFFF',
     fontWeight: 'bold',
+    marginBottom: 20,
   },
   scrollContainer: {
     alignItems: 'center',
@@ -44,5 +45,6 @@ const styles = StyleSheet.create({
     width: 320,
     height: 180,
     borderRadius: 10,
+    marginBottom: 20,
   },
 });
