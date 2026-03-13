@@ -20,7 +20,7 @@ A tarefa consiste em três exercícios práticos para introduzir os conceitos b�
 
 **Objetivo:** Exibir uma sequência de imagens e utilizar `ScrollView` para permitir a rolagem.
 
-**Instruções:**
+### ✅ Requisitos 
 1. Adicionar 6 imagens à pasta `assets/`.
 2. Importar as imagens no código.
 3. Utilizar `ScrollView` para envolver os componentes `Image`.
@@ -30,7 +30,7 @@ A tarefa consiste em três exercícios práticos para introduzir os conceitos b�
 
 **Objetivo:** Criar uma lista dinâmica onde o usuário pode adicionar itens.
 
-**Instruções:**
+### ✅ Requisitos 
 1. Utilizar `useState` para armazenar a lista de itens e o texto digitado.
 2. Ao clicar em um `Button`, adicionar o texto do `TextInput` à lista.
 3. Limpar o `TextInput` após a adição.
